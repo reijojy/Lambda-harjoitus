@@ -1,0 +1,9 @@
+Elena Isanbajeva;36;Seiväshyppääjä;F
+Ana Rinne;57;Pääministeri;M
+Charles Manson;80;Murhakultin pomo;M
+Jennifer Aniston;50;Näyttelijätär;F
+Reetta Hurske;22;Pika-aituri;F
+Paavo Arhinmäki;39;Kansanedustaja;M
+Marko Anttila;32;Mörkö;M
+Urho Kekkonen;120;Ex pressa;M
+Raimo Helminen;55;Ilves ikoni;M
